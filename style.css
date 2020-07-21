@@ -1,0 +1,69 @@
+/*Bootstrap CSS*/
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    padding: 40px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.carousel-indicators li{
+    background-color: #ffe845;
+    opacity: .2;
+}
+/*Custom CSS*/
+.gap-1{
+    margin-bottom: 100px;
+}
+.see-all{
+    color: orange;
+}
+.gap{
+    margin-bottom: 40px;
+}
+.categories{
+    text-align: center;
+}
+.white-bg-1{
+     background-color: white;
+     border-radius: 0 25px 0 25px;
+     box-shadow: 2px 2px 15px lightgrey;
+     height: 250px;
+     width: 250px;
+ }
+.white-bg-2{
+    background-color: white;
+    border-radius: 25px 0 25px 0;
+    box-shadow: 2px 2px 15px lightgrey;
+    height: 250px;
+    width: 250px;
+}
+.underline{
+    background-image: linear-gradient(to bottom, #fff04d 0%, #ffa806 100%);
+    height: 10px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.buy-now-button{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 35px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
